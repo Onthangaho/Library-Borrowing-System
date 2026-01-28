@@ -1,0 +1,15 @@
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\bin\Debug\net8.0\Library-Borrowing-System.exe
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\bin\Debug\net8.0\Library-Borrowing-System.deps.json
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\bin\Debug\net8.0\Library-Borrowing-System.runtimeconfig.json
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\bin\Debug\net8.0\Library-Borrowing-System.dll
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\bin\Debug\net8.0\Library-Borrowing-System.pdb
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.AssemblyInfoInputs.cache
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.AssemblyInfo.cs
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.csproj.CoreCompileInputs.cache
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.sourcelink.json
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.dll
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\refint\Library-Borrowing-System.dll
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.pdb
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\Library-Borrowing-System.genruntimeconfig.cache
+D:\Study broh\Bitcube trainee program\C# practice\Library-Borrowing-System\obj\Debug\net8.0\ref\Library-Borrowing-System.dll
