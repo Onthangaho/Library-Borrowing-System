@@ -22,7 +22,7 @@ public class LibraryManager
         Member? member = _members.FirstOrDefault(m => m.Id == request.MemberId);
         if (member == null)
             throw new InvalidOperationException("Member does not exist.");
-
+        
         if (book.IsReferenceOnly)
             throw new InvalidOperationException("Reference books cannot be borrowed.");
 

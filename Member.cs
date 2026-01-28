@@ -1,13 +1,15 @@
 public class Member
 {
-    public Guid Id { get; } = Guid.NewGuid();
+    public int Id { get; } 
     public string Name { get; }
 
-    public Member(string name)
+    public Member(string name, int id)
     {
         if (string.IsNullOrWhiteSpace(name))
             throw new ArgumentException("Member must have a name.");
 
         Name = name;
+        Id = id;
     }
-}
+}       
+    

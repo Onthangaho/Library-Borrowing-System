@@ -1,5 +1,5 @@
 public record BorrowRequest(
     Guid BookId,
-    Guid MemberId,
+    int MemberId,
     DateTime BorrowDate
 );

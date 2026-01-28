@@ -3,6 +3,7 @@ public class Book
     public Guid Id { get; } = Guid.NewGuid();
     public string Title { get; }
     public string Author { get; }
+    // Indicates if the book is for reference only (cannot be borrowed)
     public bool IsReferenceOnly { get; }
 
     private readonly List<Borrowing> _borrowings = new();
